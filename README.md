@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 10 Solved
+## Progress Summary: 11 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| cyclically-rotating-a-grid | Cyclically Rotating a Grid | Medium | java | [Problem](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [Solution](./solutions/Medium/1914-cyclically-rotating-a-grid/solution.java) |
 | jump-game-ix | Jump Game IX | Medium | java | [Problem](https://leetcode.com/problems/jump-game-ix/) | [Solution](./solutions/Medium/3660-jump-game-ix/solution.java) |
 | maximum-nesting-depth-of-the-parentheses | Maximum Nesting Depth of the Parentheses | Easy | java | [Problem](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Solution](./solutions/Easy/1614-maximum-nesting-depth-of-the-parentheses/solution.java) |
 | maximum-number-of-non-overlapping-palindrome-substrings | Maximum Number of Non-overlapping Palindrome Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
