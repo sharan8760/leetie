@@ -2,13 +2,14 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 12 Solved
+## Progress Summary: 13 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
 | cyclically-rotating-a-grid | Cyclically Rotating a Grid | Medium | java | [Problem](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [Solution](./solutions/Medium/1914-cyclically-rotating-a-grid/solution.java) |
 | jump-game-ix | Jump Game IX | Medium | java | [Problem](https://leetcode.com/problems/jump-game-ix/) | [Solution](./solutions/Medium/3660-jump-game-ix/solution.java) |
 | maximum-nesting-depth-of-the-parentheses | Maximum Nesting Depth of the Parentheses | Easy | java | [Problem](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Solution](./solutions/Easy/1614-maximum-nesting-depth-of-the-parentheses/solution.java) |
+| maximum-number-of-jumps-to-reach-the-last-index | Maximum Number of Jumps to Reach the Last Index | Medium | java | [Problem](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Solution](./solutions/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/solution.java) |
 | maximum-number-of-non-overlapping-palindrome-substrings | Maximum Number of Non-overlapping Palindrome Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
 | minimum-jumps-to-reach-end-via-prime-teleportation | Minimum Jumps to Reach End via Prime Teleportation | Medium | java | [Problem](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | [Solution](./solutions/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/solution.java) |
 | reverse-substrings-between-each-pair-of-parentheses | Reverse Substrings Between Each Pair of Parentheses | Medium | java | [Problem](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Solution](./solutions/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/solution.java) |
