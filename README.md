@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 11 Solved
+## Progress Summary: 12 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -17,3 +17,4 @@
 | rotated-digits | Rotated Digits | Medium | java | [Problem](https://leetcode.com/problems/rotated-digits/) | [Solution](./solutions/Medium/0788-rotated-digits/solution.java) |
 | rotating-the-box | Rotating the Box | Medium | java | [Problem](https://leetcode.com/problems/rotating-the-box/) | [Solution](./solutions/Medium/1861-rotating-the-box/solution.java) |
 | valid-parentheses | Valid Parentheses | Easy | java | [Problem](https://leetcode.com/problems/valid-parentheses/) | [Solution](./solutions/Easy/0020-valid-parentheses/solution.java) |
+| valid-parenthesis-string | Valid Parenthesis String | Medium | java | [Problem](https://leetcode.com/problems/valid-parenthesis-string/) | [Solution](./solutions/Medium/0678-valid-parenthesis-string/solution.java) |
