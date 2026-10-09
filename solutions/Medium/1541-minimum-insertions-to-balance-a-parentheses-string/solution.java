@@ -1,0 +1,49 @@
+// ──────────────────────────────────────────────────
+// Problem  : 1541. Minimum Insertions to Balance a Parentheses String
+// Difficulty: Medium
+// Tags     : String, Stack, Greedy, Bracket Sequences
+// Link     : https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/
+// Runtime  : 10 ms (beats 79%)
+// Memory   : 47480000 (beats 75%)
+// Language : java
+// Copyright: (c) 2026 sharan8760. All rights reserved.
+// Synced by: leetie
+// ──────────────────────────────────────────────────
+
+class Solution {
+        public int minInsertions(String s) {
+                int insertions = 0;
+                        int openBrackets = 0;
+                                int n = s.length();
+                                        
+                                                for (int i = 0; i < n; i++) {
+                                                            char c = s.charAt(i);
+                                                                        
+                                                                                    if (c == '(') {
+                                                                                                    openBrackets++;
+                                                                                                                } else {
+                                                                                                                                // We encounter a closing parenthesis ')'
+                                                                                                                                                // Check if the next character is also ')'
+                                                                                                                                                                if (i + 1 < n && s.charAt(i + 1) == ')') {
+                                                                                                                                                                                    i++; // Skip the next ')' as it forms a pair '))'
+                                                                                                                                                                                                    } else {
+                                                                                                                                                                                                                        // It's a single ')' so we need one more ')'
+                                                                                                                                                                                                                                            insertions++;
+                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                            // Now check if we have an open '(' waiting for this '))'
+                                                                                                                                                                                                                                                                                                            if (openBrackets > 0) {
+                                                                                                                                                                                                                                                                                                                                openBrackets--;
+                                                                                                                                                                                                                                                                                                                                                } else {
+                                                                                                                                                                                                                                                                                                                                                                    // No matching '(', so we need to insert a '('
+                                                                                                                                                                                                                                                                                                                                                                                        insertions++;
+                                                                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                                                                                    }
+                                                                                                                                                                                                                                                                                                                                                                                                                            }
+                                                                                                                                                                                                                                                                                                                                                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                            // Each remaining unclosed '(' needs two ')' brackets
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    insertions += openBrackets * 2;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    return insertions;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        }
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        }
