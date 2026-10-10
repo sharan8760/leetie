@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 17 Solved
+## Progress Summary: 18 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -15,6 +15,7 @@
 | minimum-insertions-to-balance-a-parentheses-string | Minimum Insertions to Balance a Parentheses String | Medium | java | [Problem](https://leetcode.com/problems/minimum-insertions-to-balance-a-parentheses-string/) | [Solution](./solutions/Medium/1541-minimum-insertions-to-balance-a-parentheses-string/solution.java) |
 | minimum-jumps-to-reach-end-via-prime-teleportation | Minimum Jumps to Reach End via Prime Teleportation | Medium | java | [Problem](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation/) | [Solution](./solutions/Medium/3629-minimum-jumps-to-reach-end-via-prime-teleportation/solution.java) |
 | minimum-moves-to-make-array-complementary | Minimum Moves to Make Array Complementary | Medium | java | [Problem](https://leetcode.com/problems/minimum-moves-to-make-array-complementary/) | [Solution](./solutions/Medium/1674-minimum-moves-to-make-array-complementary/solution.java) |
+| minimum-sum-of-squared-difference | Minimum Sum of Squared Difference | Medium | java | [Problem](https://leetcode.com/problems/minimum-sum-of-squared-difference/) | [Solution](./solutions/Medium/2333-minimum-sum-of-squared-difference/solution.java) |
 | reverse-substrings-between-each-pair-of-parentheses | Reverse Substrings Between Each Pair of Parentheses | Medium | java | [Problem](https://leetcode.com/problems/reverse-substrings-between-each-pair-of-parentheses/) | [Solution](./solutions/Medium/1190-reverse-substrings-between-each-pair-of-parentheses/solution.java) |
 | rotate-image | Rotate Image | Medium | java | [Problem](https://leetcode.com/problems/rotate-image/) | [Solution](./solutions/Medium/0048-rotate-image/solution.java) |
 | rotate-list | Rotate List | Medium | java | [Problem](https://leetcode.com/problems/rotate-list/) | [Solution](./solutions/Medium/0061-rotate-list/solution.java) |
