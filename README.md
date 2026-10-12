@@ -2,10 +2,11 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 22 Solved
+## Progress Summary: 23 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
+| apply-operations-on-array-to-maximize-sum-of-squares | Apply Operations on Array to Maximize Sum of Squares | Hard | java | [Problem](https://leetcode.com/problems/apply-operations-on-array-to-maximize-sum-of-squares/) | [Solution](./solutions/Hard/2897-apply-operations-on-array-to-maximize-sum-of-squares/solution.java) |
 | check-if-array-is-good | Check if Array is Good | Easy | java | [Problem](https://leetcode.com/problems/check-if-array-is-good/) | [Solution](./solutions/Easy/2784-check-if-array-is-good/solution.java) |
 | cyclically-rotating-a-grid | Cyclically Rotating a Grid | Medium | java | [Problem](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [Solution](./solutions/Medium/1914-cyclically-rotating-a-grid/solution.java) |
 | jump-game-iii | Jump Game III | Medium | java | [Problem](https://leetcode.com/problems/jump-game-iii/) | [Solution](./solutions/Medium/1306-jump-game-iii/solution.java) |
