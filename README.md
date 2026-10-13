@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 25 Solved
+## Progress Summary: 26 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -13,6 +13,7 @@
 | jump-game-iii | Jump Game III | Medium | java | [Problem](https://leetcode.com/problems/jump-game-iii/) | [Solution](./solutions/Medium/1306-jump-game-iii/solution.java) |
 | jump-game-iv | Jump Game IV | Hard | java | [Problem](https://leetcode.com/problems/jump-game-iv/) | [Solution](./solutions/Hard/1345-jump-game-iv/solution.java) |
 | jump-game-ix | Jump Game IX | Medium | java | [Problem](https://leetcode.com/problems/jump-game-ix/) | [Solution](./solutions/Medium/3660-jump-game-ix/solution.java) |
+| maximum-alternating-sum-of-squares | Maximum Alternating Sum of Squares | Medium | java | [Problem](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | [Solution](./solutions/Medium/3727-maximum-alternating-sum-of-squares/solution.java) |
 | maximum-nesting-depth-of-the-parentheses | Maximum Nesting Depth of the Parentheses | Easy | java | [Problem](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | [Solution](./solutions/Easy/1614-maximum-nesting-depth-of-the-parentheses/solution.java) |
 | maximum-number-of-jumps-to-reach-the-last-index | Maximum Number of Jumps to Reach the Last Index | Medium | java | [Problem](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/) | [Solution](./solutions/Medium/2770-maximum-number-of-jumps-to-reach-the-last-index/solution.java) |
 | maximum-number-of-non-overlapping-palindrome-substrings | Maximum Number of Non-overlapping Palindrome Substrings | Hard | java | [Problem](https://leetcode.com/problems/maximum-number-of-non-overlapping-palindrome-substrings/) | [Solution](./solutions/Hard/2472-maximum-number-of-non-overlapping-palindrome-substrings/solution.java) |
