@@ -2,7 +2,7 @@
 
 > *Automatically synced by [leetie](https://github.com/leetie/leetie).*
 
-## Progress Summary: 26 Solved
+## Progress Summary: 27 Solved
 
 | Slug | Problem | Difficulty | Language | Problem Link | Solution Code |
 |------|---------|-----------|----------|--------------|---------------|
@@ -10,6 +10,7 @@
 | check-if-array-is-good | Check if Array is Good | Easy | java | [Problem](https://leetcode.com/problems/check-if-array-is-good/) | [Solution](./solutions/Easy/2784-check-if-array-is-good/solution.java) |
 | cyclically-rotating-a-grid | Cyclically Rotating a Grid | Medium | java | [Problem](https://leetcode.com/problems/cyclically-rotating-a-grid/) | [Solution](./solutions/Medium/1914-cyclically-rotating-a-grid/solution.java) |
 | find-the-length-of-the-longest-common-prefix | Find the Length of the Longest Common Prefix | Medium | java | [Problem](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix/) | [Solution](./solutions/Medium/3043-find-the-length-of-the-longest-common-prefix/solution.java) |
+| find-the-prefix-common-array-of-two-arrays | Find the Prefix Common Array of Two Arrays | Medium | java | [Problem](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | [Solution](./solutions/Medium/2657-find-the-prefix-common-array-of-two-arrays/solution.java) |
 | jump-game-iii | Jump Game III | Medium | java | [Problem](https://leetcode.com/problems/jump-game-iii/) | [Solution](./solutions/Medium/1306-jump-game-iii/solution.java) |
 | jump-game-iv | Jump Game IV | Hard | java | [Problem](https://leetcode.com/problems/jump-game-iv/) | [Solution](./solutions/Hard/1345-jump-game-iv/solution.java) |
 | jump-game-ix | Jump Game IX | Medium | java | [Problem](https://leetcode.com/problems/jump-game-ix/) | [Solution](./solutions/Medium/3660-jump-game-ix/solution.java) |
